@@ -1,0 +1,11 @@
+TIMESTAMP = 1538577353
+SHA256 (chromium-61.0.3163.100.tar.xz) = 4135968cac6623c1d2b224494600cd274098cce41c298f8c3908b354a34c281b
+SIZE (chromium-61.0.3163.100.tar.xz) = 556305252
+SHA256 (electron-libchromiumcontent-0e760628832e77_GH0.tar.gz) = 1b8b6af5c9deeffb4b9c1b015cb867f71cbf57b9cdaa653dae81dad9e7883ef1
+SIZE (electron-libchromiumcontent-0e760628832e77_GH0.tar.gz) = 150466
+SHA256 (yzgyyang-freebsd-libcc-release-804fe7e_GH0.tar.gz) = 5d49514dc9d598e7940f647fb3017c515462e8f10d2f5a811c302170a65e859b
+SIZE (yzgyyang-freebsd-libcc-release-804fe7e_GH0.tar.gz) = 13800
+SHA256 (piotrbulinski-boto-3265cad_GH0.tar.gz) = 9e3f463d5d5d0598b7154df9890d67813dfdd8ef94d878b2b6b13e6a6b039775
+SIZE (piotrbulinski-boto-3265cad_GH0.tar.gz) = 1349257
+SHA256 (freebsd-electron-chromium-patches-83d304d_GH0.tar.gz) = 3ea3ff48c6cf7de8f23336b6b200f84a10477b639970339b50f8545e901cee2d
+SIZE (freebsd-electron-chromium-patches-83d304d_GH0.tar.gz) = 175856
